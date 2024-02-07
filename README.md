@@ -1,4 +1,4 @@
-# call_log_app
+# call_log
 
 A new Flutter project.
 
